@@ -5,6 +5,10 @@
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white)
 
+## 🚀 Live Demo
+
+You can view the live application here: [Uber Eats Bangalore Restaurant Intelligence System](https://uber-eats-bangalore-restaurant-intelligence.streamlit.app/)
+
 ## 📌 Project Overview
 This project is a **Data Engineering and Business Intelligence** solution designed to analyze the Uber Eats restaurant marketplace in Bangalore. It functions as a **Decision Support System (DSS)** that helps stakeholders make data-driven choices regarding location strategy, pricing, and feature adoption.
 
